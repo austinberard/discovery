@@ -2,8 +2,8 @@
 authors = [
     "Jorge Aparicio <jorge@japaric.io>",
     "Christopher J. McClellan <chris.mcclellan203@gmail.com>",
-    "Wink Saville <wink@saville.com",
-    "Austin Berard <aberard123+gh@gmail.com",
+    "Wink Saville <wink@saville.com>",
+    "Austin Berard <aberard123+gh@gmail.com>",
 ]
 edition = "2018"
 name = "led-roulette"
